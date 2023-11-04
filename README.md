@@ -25,12 +25,12 @@
 - `TypeScript`
 - `Java`
 - `Dockerfile`
-- `Move` (`Move.toml`)
+- `Move`
 - `Vue`
 - `Jupyter Notebook`
 - `Assembly` (with `.asm` file extension)
 - `Objective C++`
-- `Nix` (`nix-config.yml`)
+- `Nix`
 - `Terraform`
 - `Packer`
 - `HashiCorp Configuration Language`
