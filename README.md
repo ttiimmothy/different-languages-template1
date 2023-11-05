@@ -38,6 +38,7 @@
 - `TOML` (Tom's Obvious, Minimal Language)
 - `YAML` (`main.yml`)
 - `Svelte`
+- `Astro`
 
 ## License
 
