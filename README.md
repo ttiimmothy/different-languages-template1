@@ -37,6 +37,7 @@
 - `Solidity`
 - `TOML` (Tom's Obvious, Minimal Language)
 - `YAML` (`main.yml`)
+- `Svelte`
 
 ## License
 
